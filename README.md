@@ -1,5 +1,3 @@
-# Programming-and-Data-Analysis-assignment-0
-
 # Zen of Python
 
 > Special cases aren't special enough to break the rules.
